@@ -1,1 +1,1 @@
-# imagecrawler craw images for google or baidu
+# imagecrawler craw images from google or baidu
